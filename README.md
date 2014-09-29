@@ -1,4 +1,4 @@
 mananon
 =======
 
-Manaon is a software suite that allows for verifiable peer to peer anonymous transactions and commuications
+Manaon is an endevor to create an anonymous cloud environment that allows for secure encrypted communications between parties working in the system.  
